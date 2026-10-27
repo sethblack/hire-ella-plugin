@@ -1,0 +1,17 @@
+{
+  "name": "hire-ella",
+  "description": "Hire Ella: an AI assistant who phones and emails businesses for you.",
+  "owner": {
+    "name": "Seth Black"
+  },
+  "plugins": [
+    {
+      "name": "ella",
+      "source": "./plugins/ella",
+      "description": "Start errands for Ella (calls and emails to businesses), follow them, answer what contacts ask and decide between quotes. Needs a Hire Ella account.",
+      "version": "1.0.1",
+      "category": "productivity",
+      "homepage": "https://www.sethserver.com/hire-ella/mcp-setup"
+    }
+  ]
+}
