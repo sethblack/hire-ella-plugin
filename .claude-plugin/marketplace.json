@@ -6,10 +6,10 @@
   },
   "plugins": [
     {
-      "name": "ella",
+      "name": "ella-by-sethserver",
       "source": "./plugins/ella",
       "description": "Start errands for Ella (calls and emails to businesses), follow them, answer what contacts ask and decide between quotes. Needs a Hire Ella account.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "productivity",
       "homepage": "https://www.sethserver.com/hire-ella/mcp-setup"
     }

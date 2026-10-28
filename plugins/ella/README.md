@@ -15,7 +15,7 @@ In Claude Code, from the folder you unzipped
 
 ```
 /plugin marketplace add ./hire-ella
-/plugin install ella@hire-ella
+/plugin install ella-by-sethserver@hire-ella
 ```
 
 then `/mcp` to sign in. (Where the setup page names a GitHub marketplace, `/plugin marketplace add` it instead,
